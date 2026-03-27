@@ -25,3 +25,8 @@ This project is an AI-powered email classification environment built using FastA
 ```bash
 pip install -r requirements.txt
 python3 -m uvicorn app:app --reload
+
+
+https://harshithayadav28-email-env.hf.space/docs
+
+https://email-env.onrender.com/docs#/
